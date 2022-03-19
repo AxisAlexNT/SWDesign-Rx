@@ -5,8 +5,8 @@
 * Frontend (not the most eye-appealing) using Vue.JS v3
 
 ## How to launch:
-* Backend: issue `mvn compile exec:java` command, this would automatically download all dependencues and launch Vert.X
-* Frontend: execute `npm run serve` to start development server. You have to start backend first, otherwise its port would be busy.
+* Backend: issue `mvn compile exec:java` command, this would automatically download all dependencies and launch Vert.X
+* Frontend: execute `npm run serve` to start development server. You have to start backend first, otherwise its port would be busy. Dependencies should be resolved automatically, but if it is not the case, issue `npm install` first.
 
 ## How to check
 
